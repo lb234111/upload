@@ -1,206 +1,206 @@
 [
     {
         "blocksize": 120,
-        "tps": 1888.5
+        "tps": 1562
     },
     {
         "blocksize": 100,
-        "tps": 1931
-    },
-    {
-        "blocksize": 130,
-        "tps": 1927.5
+        "tps": 1797.6
     },
     {
         "blocksize": 110,
-        "tps": 2231.5
+        "tps": 1562.6
+    },
+    {
+        "blocksize": 130,
+        "tps": 1647.6
     },
     {
         "blocksize": 150,
-        "tps": 2387.5
-    },
-    {
-        "blocksize": 160,
-        "tps": 1906.5
-    },
-    {
-        "blocksize": 140,
-        "tps": 2329.5
+        "tps": 2138.4
     },
     {
         "blocksize": 170,
-        "tps": 2679
+        "tps": 2368.8
     },
     {
-        "blocksize": 200,
-        "tps": 3093.5
+        "blocksize": 160,
+        "tps": 2409.4
+    },
+    {
+        "blocksize": 140,
+        "tps": 1960
     },
     {
         "blocksize": 180,
-        "tps": 2193.5
+        "tps": 2083.2
     },
     {
         "blocksize": 190,
-        "tps": 2501.5
+        "tps": 2303
+    },
+    {
+        "blocksize": 200,
+        "tps": 2385.2
     },
     {
         "blocksize": 210,
-        "tps": 1367.5
+        "tps": 2537.6
     },
     {
         "blocksize": 220,
-        "tps": 2085.5
+        "tps": 2574.6
     },
     {
         "blocksize": 230,
-        "tps": 2314.5
-    },
-    {
-        "blocksize": 240,
-        "tps": 2569.5
+        "tps": 2384.4
     },
     {
         "blocksize": 250,
-        "tps": 2840
+        "tps": 2506.4
+    },
+    {
+        "blocksize": 240,
+        "tps": 2461.4
     },
     {
         "blocksize": 260,
-        "tps": 2577.5
+        "tps": 2507.6
     },
     {
         "blocksize": 270,
-        "tps": 4075.5
+        "tps": 2075.4
     },
     {
         "blocksize": 280,
-        "tps": 2649.5
-    },
-    {
-        "blocksize": 300,
-        "tps": 2850.5
-    },
-    {
-        "blocksize": 310,
-        "tps": 2597.5
+        "tps": 2195.4
     },
     {
         "blocksize": 290,
-        "tps": 4281.5
+        "tps": 3099.4
+    },
+    {
+        "blocksize": 300,
+        "tps": 2234.4
+    },
+    {
+        "blocksize": 310,
+        "tps": 2724.8
     },
     {
         "blocksize": 320,
-        "tps": 2573
-    },
-    {
-        "blocksize": 330,
-        "tps": 2903
-    },
-    {
-        "blocksize": 360,
-        "tps": 2533.5
-    },
-    {
-        "blocksize": 350,
-        "tps": 2763
-    },
-    {
-        "blocksize": 370,
-        "tps": 2492
-    },
-    {
-        "blocksize": 380,
-        "tps": 2543.5
-    },
-    {
-        "blocksize": 390,
-        "tps": 3059.5
-    },
-    {
-        "blocksize": 400,
-        "tps": 2963
+        "tps": 2933.4
     },
     {
         "blocksize": 340,
-        "tps": 1952.5
+        "tps": 2818.8
+    },
+    {
+        "blocksize": 330,
+        "tps": 3083.4
+    },
+    {
+        "blocksize": 350,
+        "tps": 2543.6
+    },
+    {
+        "blocksize": 360,
+        "tps": 2651.2
+    },
+    {
+        "blocksize": 370,
+        "tps": 2758.4
+    },
+    {
+        "blocksize": 380,
+        "tps": 3531.4
+    },
+    {
+        "blocksize": 390,
+        "tps": 2734.4
+    },
+    {
+        "blocksize": 400,
+        "tps": 2803.4
     },
     {
         "blocksize": 410,
-        "tps": 2806.5
-    },
-    {
-        "blocksize": 420,
-        "tps": 3264.5
+        "tps": 2322.8
     },
     {
         "blocksize": 430,
-        "tps": 2714
+        "tps": 2731
     },
     {
         "blocksize": 440,
-        "tps": 2956
+        "tps": 3408
+    },
+    {
+        "blocksize": 420,
+        "tps": 3561.6
     },
     {
         "blocksize": 450,
-        "tps": 2333.5
-    },
-    {
-        "blocksize": 470,
-        "tps": 3793.5
+        "tps": 2781.4
     },
     {
         "blocksize": 460,
-        "tps": 3271.5
+        "tps": 2964.4
+    },
+    {
+        "blocksize": 470,
+        "tps": 3122.8
     },
     {
         "blocksize": 480,
-        "tps": 2953.5
+        "tps": 2660.4
     },
     {
         "blocksize": 490,
-        "tps": 2601.5
-    },
-    {
-        "blocksize": 520,
-        "tps": 2966
+        "tps": 3007.8
     },
     {
         "blocksize": 510,
-        "tps": 4322.5
-    },
-    {
-        "blocksize": 530,
-        "tps": 2965.5
+        "tps": 2266.4
     },
     {
         "blocksize": 500,
-        "tps": 1447.5
+        "tps": 3030.4
+    },
+    {
+        "blocksize": 530,
+        "tps": 3068.8
+    },
+    {
+        "blocksize": 520,
+        "tps": 3250.4
     },
     {
         "blocksize": 540,
-        "tps": 2898.5
-    },
-    {
-        "blocksize": 560,
-        "tps": 3180
+        "tps": 2771.2
     },
     {
         "blocksize": 550,
-        "tps": 2914.5
+        "tps": 2866.8
+    },
+    {
+        "blocksize": 560,
+        "tps": 3451.4
     },
     {
         "blocksize": 570,
-        "tps": 2783.5
+        "tps": 3947.2
     },
     {
         "blocksize": 580,
-        "tps": 3141.5
+        "tps": 2602.6
     },
     {
         "blocksize": 590,
-        "tps": 3036.5
+        "tps": 2720.6
     },
     {
         "blocksize": 600,
-        "tps": 4342
+        "tps": 2794
     }
 ]
