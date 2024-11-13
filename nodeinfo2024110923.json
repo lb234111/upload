@@ -1,0 +1,21 @@
+{
+	"NodeId": 1,
+	"Round": 1,
+	"Pre": 0,
+	"State": 1,
+	"Tps": 1250,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}
