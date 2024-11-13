@@ -1,0 +1,5441 @@
+{
+	"NodeId": 1,
+	"Round": 1,
+	"Pre": 0,
+	"State": 1,
+	"Tps": 1799,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 5,
+	"Round": 2,
+	"Pre": 1,
+	"State": 1,
+	"Tps": 2243,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 3,
+	"Round": 2,
+	"Pre": 1,
+	"State": 4,
+	"Tps": 1451,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 4,
+	"Round": 2,
+	"Pre": 1,
+	"State": 2,
+	"Tps": 1768,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 2,
+	"Round": 2,
+	"Pre": 1,
+	"State": 4,
+	"Tps": 1499,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 6,
+	"Round": 2,
+	"Pre": 1,
+	"State": 2,
+	"Tps": 1717,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 7,
+	"Round": 2,
+	"Pre": 1,
+	"State": 1,
+	"Tps": 2120,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 9,
+	"Round": 2,
+	"Pre": 1,
+	"State": 1,
+	"Tps": 2020,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 8,
+	"Round": 2,
+	"Pre": 1,
+	"State": 4,
+	"Tps": 1322,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 10,
+	"Round": 2,
+	"Pre": 1,
+	"State": 1,
+	"Tps": 2017,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 11,
+	"Round": 2,
+	"Pre": 1,
+	"State": 4,
+	"Tps": 877,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 1,
+	"Round": 1,
+	"Pre": 0,
+	"State": 1,
+	"Tps": 1399,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 3,
+	"Round": 2,
+	"Pre": 1,
+	"State": 4,
+	"Tps": 1080,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 4,
+	"Round": 2,
+	"Pre": 1,
+	"State": 2,
+	"Tps": 1407,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 2,
+	"Round": 2,
+	"Pre": 1,
+	"State": 2,
+	"Tps": 1289,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 6,
+	"Round": 2,
+	"Pre": 1,
+	"State": 1,
+	"Tps": 1797,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 5,
+	"Round": 2,
+	"Pre": 1,
+	"State": 2,
+	"Tps": 1297,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 7,
+	"Round": 2,
+	"Pre": 1,
+	"State": 2,
+	"Tps": 1414,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 8,
+	"Round": 2,
+	"Pre": 1,
+	"State": 1,
+	"Tps": 2023,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 9,
+	"Round": 2,
+	"Pre": 1,
+	"State": 1,
+	"Tps": 1897,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 10,
+	"Round": 2,
+	"Pre": 1,
+	"State": 1,
+	"Tps": 2664,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 11,
+	"Round": 2,
+	"Pre": 1,
+	"State": 1,
+	"Tps": 2033,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 13,
+	"Round": 3,
+	"Pre": 10,
+	"State": 1,
+	"Tps": 3054,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 12,
+	"Round": 3,
+	"Pre": 4,
+	"State": 1,
+	"Tps": 2423,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 14,
+	"Round": 3,
+	"Pre": 8,
+	"State": 2,
+	"Tps": 1975,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 15,
+	"Round": 3,
+	"Pre": 8,
+	"State": 2,
+	"Tps": 1942,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 17,
+	"Round": 3,
+	"Pre": 1,
+	"State": 1,
+	"Tps": 1996,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 16,
+	"Round": 3,
+	"Pre": 8,
+	"State": 4,
+	"Tps": 1739,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 18,
+	"Round": 3,
+	"Pre": 9,
+	"State": 2,
+	"Tps": 1780,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 19,
+	"Round": 3,
+	"Pre": 9,
+	"State": 1,
+	"Tps": 2037,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 20,
+	"Round": 3,
+	"Pre": 5,
+	"State": 1,
+	"Tps": 1785,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 21,
+	"Round": 3,
+	"Pre": 5,
+	"State": 1,
+	"Tps": 1739,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 22,
+	"Round": 4,
+	"Pre": 8,
+	"State": 4,
+	"Tps": 1192,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 3,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 24,
+	"Round": 4,
+	"Pre": 6,
+	"State": 4,
+	"Tps": 1535,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 23,
+	"Round": 4,
+	"Pre": 4,
+	"State": 4,
+	"Tps": 1171,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 25,
+	"Round": 4,
+	"Pre": 12,
+	"State": 1,
+	"Tps": 2973,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 26,
+	"Round": 4,
+	"Pre": 15,
+	"State": 4,
+	"Tps": 490,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 3,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 27,
+	"Round": 4,
+	"Pre": 5,
+	"State": 1,
+	"Tps": 1886,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 28,
+	"Round": 4,
+	"Pre": 17,
+	"State": 4,
+	"Tps": 1724,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 3,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 30,
+	"Round": 4,
+	"Pre": 19,
+	"State": 4,
+	"Tps": 1208,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 29,
+	"Round": 4,
+	"Pre": 20,
+	"State": 4,
+	"Tps": 1209,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 3,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 31,
+	"Round": 4,
+	"Pre": 19,
+	"State": 2,
+	"Tps": 1889,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 34,
+	"Round": 5,
+	"Pre": 14,
+	"State": 3,
+	"Tps": 2010,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 32,
+	"Round": 5,
+	"Pre": 11,
+	"State": 4,
+	"Tps": 1809,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 70,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 33,
+	"Round": 5,
+	"Pre": 14,
+	"State": 4,
+	"Tps": 1460,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 3,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 35,
+	"Round": 5,
+	"Pre": 6,
+	"State": 1,
+	"Tps": 1974,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 36,
+	"Round": 5,
+	"Pre": 6,
+	"State": 2,
+	"Tps": 1858,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 5,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 37,
+	"Round": 5,
+	"Pre": 25,
+	"State": 2,
+	"Tps": 3095,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 200
+	}
+}{
+	"NodeId": 38,
+	"Round": 5,
+	"Pre": 20,
+	"State": 4,
+	"Tps": 1131,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 39,
+	"Round": 5,
+	"Pre": 7,
+	"State": 3,
+	"Tps": 1405,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 40,
+	"Round": 5,
+	"Pre": 12,
+	"State": 1,
+	"Tps": 2615,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 41,
+	"Round": 5,
+	"Pre": 2,
+	"State": 4,
+	"Tps": 939,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 43,
+	"Round": 6,
+	"Pre": 11,
+	"State": 4,
+	"Tps": 1828,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 42,
+	"Round": 6,
+	"Pre": 34,
+	"State": 2,
+	"Tps": 2293,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 44,
+	"Round": 6,
+	"Pre": 20,
+	"State": 4,
+	"Tps": 756,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 45,
+	"Round": 6,
+	"Pre": 37,
+	"State": 3,
+	"Tps": 3134,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 200
+	}
+}{
+	"NodeId": 46,
+	"Round": 6,
+	"Pre": 39,
+	"State": 2,
+	"Tps": 2362,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 47,
+	"Round": 6,
+	"Pre": 27,
+	"State": 2,
+	"Tps": 1778,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 3,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 48,
+	"Round": 6,
+	"Pre": 8,
+	"State": 4,
+	"Tps": 1683,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 50,
+	"Round": 6,
+	"Pre": 4,
+	"State": 1,
+	"Tps": 2035,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 49,
+	"Round": 6,
+	"Pre": 7,
+	"State": 1,
+	"Tps": 1849,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 51,
+	"Round": 6,
+	"Pre": 36,
+	"State": 4,
+	"Tps": 1324,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 5,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 53,
+	"Round": 7,
+	"Pre": 13,
+	"State": 2,
+	"Tps": 2750,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 52,
+	"Round": 7,
+	"Pre": 13,
+	"State": 4,
+	"Tps": 2186,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 54,
+	"Round": 7,
+	"Pre": 13,
+	"State": 4,
+	"Tps": 1387,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 55,
+	"Round": 7,
+	"Pre": 46,
+	"State": 3,
+	"Tps": 2422,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 56,
+	"Round": 7,
+	"Pre": 8,
+	"State": 4,
+	"Tps": 1466,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 57,
+	"Round": 7,
+	"Pre": 42,
+	"State": 2,
+	"Tps": 2416,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 3,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 59,
+	"Round": 7,
+	"Pre": 6,
+	"State": 2,
+	"Tps": 1797,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 58,
+	"Round": 7,
+	"Pre": 20,
+	"State": 4,
+	"Tps": 486,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 60,
+	"Round": 7,
+	"Pre": 4,
+	"State": 1,
+	"Tps": 1609,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 61,
+	"Round": 7,
+	"Pre": 39,
+	"State": 4,
+	"Tps": 1301,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 63,
+	"Round": 8,
+	"Pre": 18,
+	"State": 1,
+	"Tps": 2642,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 64,
+	"Round": 8,
+	"Pre": 49,
+	"State": 1,
+	"Tps": 1944,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 70,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 62,
+	"Round": 8,
+	"Pre": 5,
+	"State": 1,
+	"Tps": 1605,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 65,
+	"Round": 8,
+	"Pre": 35,
+	"State": 2,
+	"Tps": 2012,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 70,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 66,
+	"Round": 8,
+	"Pre": 15,
+	"State": 3,
+	"Tps": 1835,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 67,
+	"Round": 8,
+	"Pre": 25,
+	"State": 4,
+	"Tps": 1712,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 69,
+	"Round": 8,
+	"Pre": 45,
+	"State": 4,
+	"Tps": 3099,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 200
+	}
+}{
+	"NodeId": 68,
+	"Round": 8,
+	"Pre": 31,
+	"State": 1,
+	"Tps": 2767,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 3,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 70,
+	"Round": 8,
+	"Pre": 50,
+	"State": 4,
+	"Tps": 1554,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 3,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 71,
+	"Round": 8,
+	"Pre": 12,
+	"State": 1,
+	"Tps": 2563,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 72,
+	"Round": 9,
+	"Pre": 60,
+	"State": 1,
+	"Tps": 1864,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 74,
+	"Round": 9,
+	"Pre": 34,
+	"State": 4,
+	"Tps": 1977,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 3,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 73,
+	"Round": 9,
+	"Pre": 63,
+	"State": 2,
+	"Tps": 2678,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 75,
+	"Round": 9,
+	"Pre": 53,
+	"State": 4,
+	"Tps": 1458,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 76,
+	"Round": 9,
+	"Pre": 55,
+	"State": 2,
+	"Tps": 2691,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 77,
+	"Round": 9,
+	"Pre": 2,
+	"State": 1,
+	"Tps": 1851,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 78,
+	"Round": 9,
+	"Pre": 25,
+	"State": 4,
+	"Tps": 1711,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 79,
+	"Round": 9,
+	"Pre": 20,
+	"State": 1,
+	"Tps": 2030,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 80,
+	"Round": 9,
+	"Pre": 66,
+	"State": 2,
+	"Tps": 2323,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 110
+	}
+}{
+	"NodeId": 81,
+	"Round": 9,
+	"Pre": 31,
+	"State": 1,
+	"Tps": 2092,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 82,
+	"Round": 10,
+	"Pre": 73,
+	"State": 1,
+	"Tps": 2977,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 84,
+	"Round": 10,
+	"Pre": 71,
+	"State": 2,
+	"Tps": 2620,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 83,
+	"Round": 10,
+	"Pre": 68,
+	"State": 4,
+	"Tps": 2234,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 4,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 85,
+	"Round": 10,
+	"Pre": 71,
+	"State": 2,
+	"Tps": 2558,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 2,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 86,
+	"Round": 10,
+	"Pre": 19,
+	"State": 4,
+	"Tps": 1377,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 87,
+	"Round": 10,
+	"Pre": 5,
+	"State": 1,
+	"Tps": 1807,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 88,
+	"Round": 10,
+	"Pre": 5,
+	"State": 1,
+	"Tps": 1905,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 90,
+	"Round": 10,
+	"Pre": 37,
+	"State": 4,
+	"Tps": 2743,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 250
+	}
+}{
+	"NodeId": 89,
+	"Round": 10,
+	"Pre": 64,
+	"State": 4,
+	"Tps": 1021,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 70,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 4,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 91,
+	"Round": 10,
+	"Pre": 47,
+	"State": 4,
+	"Tps": 1462,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 3,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 94,
+	"Round": 11,
+	"Pre": 40,
+	"State": 2,
+	"Tps": 2373,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 92,
+	"Round": 11,
+	"Pre": 80,
+	"State": 4,
+	"Tps": 1929,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 110
+	}
+}{
+	"NodeId": 93,
+	"Round": 11,
+	"Pre": 37,
+	"State": 4,
+	"Tps": 2500,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 200
+	}
+}{
+	"NodeId": 95,
+	"Round": 11,
+	"Pre": 13,
+	"State": 2,
+	"Tps": 3062,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 200
+	}
+}{
+	"NodeId": 96,
+	"Round": 11,
+	"Pre": 63,
+	"State": 4,
+	"Tps": 2240,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 98,
+	"Round": 11,
+	"Pre": 36,
+	"State": 4,
+	"Tps": 498,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 5,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 99,
+	"Round": 11,
+	"Pre": 36,
+	"State": 4,
+	"Tps": 1340,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 6,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 101,
+	"Round": 11,
+	"Pre": 12,
+	"State": 2,
+	"Tps": 2336,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 100,
+	"Round": 11,
+	"Pre": 35,
+	"State": 4,
+	"Tps": 1074,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 97,
+	"Round": 11,
+	"Pre": 73,
+	"State": 3,
+	"Tps": 2741,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 104,
+	"Round": 12,
+	"Pre": 80,
+	"State": 1,
+	"Tps": 2758,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 3,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 110
+	}
+}{
+	"NodeId": 102,
+	"Round": 12,
+	"Pre": 39,
+	"State": 4,
+	"Tps": 1252,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 103,
+	"Round": 12,
+	"Pre": 65,
+	"State": 4,
+	"Tps": 1710,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 70,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 105,
+	"Round": 12,
+	"Pre": 53,
+	"State": 1,
+	"Tps": 3209,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 200
+	}
+}{
+	"NodeId": 106,
+	"Round": 12,
+	"Pre": 85,
+	"State": 4,
+	"Tps": 1991,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 2,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 107,
+	"Round": 12,
+	"Pre": 10,
+	"State": 4,
+	"Tps": 2185,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 108,
+	"Round": 12,
+	"Pre": 21,
+	"State": 2,
+	"Tps": 1598,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 109,
+	"Round": 12,
+	"Pre": 55,
+	"State": 2,
+	"Tps": 2704,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 111,
+	"Round": 12,
+	"Pre": 47,
+	"State": 1,
+	"Tps": 2652,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 3,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 110,
+	"Round": 12,
+	"Pre": 77,
+	"State": 4,
+	"Tps": 446,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 70,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 114,
+	"Round": 13,
+	"Pre": 108,
+	"State": 1,
+	"Tps": 1989,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 113,
+	"Round": 13,
+	"Pre": 65,
+	"State": 3,
+	"Tps": 2068,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 70,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 112,
+	"Round": 13,
+	"Pre": 65,
+	"State": 4,
+	"Tps": 1286,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 70,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 5,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 115,
+	"Round": 13,
+	"Pre": 105,
+	"State": 2,
+	"Tps": 3185,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 250
+	}
+}{
+	"NodeId": 116,
+	"Round": 13,
+	"Pre": 25,
+	"State": 2,
+	"Tps": 2936,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 117,
+	"Round": 13,
+	"Pre": 73,
+	"State": 3,
+	"Tps": 2573,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 118,
+	"Round": 13,
+	"Pre": 6,
+	"State": 4,
+	"Tps": 1332,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 119,
+	"Round": 13,
+	"Pre": 6,
+	"State": 4,
+	"Tps": 1478,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 120,
+	"Round": 13,
+	"Pre": 104,
+	"State": 4,
+	"Tps": 2265,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 4,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 110
+	}
+}{
+	"NodeId": 121,
+	"Round": 13,
+	"Pre": 76,
+	"State": 3,
+	"Tps": 2443,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 122,
+	"Round": 14,
+	"Pre": 62,
+	"State": 1,
+	"Tps": 2454,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 124,
+	"Round": 14,
+	"Pre": 60,
+	"State": 2,
+	"Tps": 1543,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 62,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 123,
+	"Round": 14,
+	"Pre": 72,
+	"State": 4,
+	"Tps": 1502,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 125,
+	"Round": 14,
+	"Pre": 109,
+	"State": 1,
+	"Tps": 3090,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 127,
+	"Round": 14,
+	"Pre": 84,
+	"State": 4,
+	"Tps": 2169,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 3,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 126,
+	"Round": 14,
+	"Pre": 114,
+	"State": 4,
+	"Tps": 306,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 128,
+	"Round": 14,
+	"Pre": 85,
+	"State": 2,
+	"Tps": 2726,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 2,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 129,
+	"Round": 14,
+	"Pre": 19,
+	"State": 4,
+	"Tps": 1810,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 130,
+	"Round": 14,
+	"Pre": 71,
+	"State": 4,
+	"Tps": 1685,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 131,
+	"Round": 14,
+	"Pre": 46,
+	"State": 4,
+	"Tps": 1954,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 4,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 133,
+	"Round": 15,
+	"Pre": 55,
+	"State": 4,
+	"Tps": 2375,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 134,
+	"Round": 15,
+	"Pre": 21,
+	"State": 1,
+	"Tps": 2051,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 132,
+	"Round": 15,
+	"Pre": 117,
+	"State": 4,
+	"Tps": 2506,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 135,
+	"Round": 15,
+	"Pre": 31,
+	"State": 4,
+	"Tps": 1694,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 136,
+	"Round": 15,
+	"Pre": 71,
+	"State": 2,
+	"Tps": 2501,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 3,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 137,
+	"Round": 15,
+	"Pre": 124,
+	"State": 1,
+	"Tps": 1829,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 63,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 138,
+	"Round": 15,
+	"Pre": 122,
+	"State": 1,
+	"Tps": 2762,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 140,
+	"Round": 15,
+	"Pre": 35,
+	"State": 4,
+	"Tps": 1557,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 5,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 141,
+	"Round": 15,
+	"Pre": 36,
+	"State": 4,
+	"Tps": 1631,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 5,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 139,
+	"Round": 15,
+	"Pre": 39,
+	"State": 2,
+	"Tps": 1725,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 144,
+	"Round": 16,
+	"Pre": 64,
+	"State": 2,
+	"Tps": 1982,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 70,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 143,
+	"Round": 16,
+	"Pre": 137,
+	"State": 4,
+	"Tps": 1474,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 64,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 145,
+	"Round": 16,
+	"Pre": 97,
+	"State": 3,
+	"Tps": 2900,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 146,
+	"Round": 16,
+	"Pre": 66,
+	"State": 4,
+	"Tps": 816,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 3,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 147,
+	"Round": 16,
+	"Pre": 76,
+	"State": 3,
+	"Tps": 2808,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 142,
+	"Round": 16,
+	"Pre": 46,
+	"State": 2,
+	"Tps": 2533,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 149,
+	"Round": 16,
+	"Pre": 111,
+	"State": 1,
+	"Tps": 2894,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 3,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 148,
+	"Round": 16,
+	"Pre": 15,
+	"State": 4,
+	"Tps": 562,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 150,
+	"Round": 16,
+	"Pre": 114,
+	"State": 4,
+	"Tps": 1649,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 151,
+	"Round": 16,
+	"Pre": 71,
+	"State": 2,
+	"Tps": 2420,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 152,
+	"Round": 17,
+	"Pre": 4,
+	"State": 1,
+	"Tps": 1930,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 3,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 153,
+	"Round": 17,
+	"Pre": 147,
+	"State": 4,
+	"Tps": 2892,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 200
+	}
+}{
+	"NodeId": 154,
+	"Round": 17,
+	"Pre": 114,
+	"State": 4,
+	"Tps": 371,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 3,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 155,
+	"Round": 17,
+	"Pre": 136,
+	"State": 3,
+	"Tps": 2341,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 3,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 156,
+	"Round": 17,
+	"Pre": 21,
+	"State": 2,
+	"Tps": 1767,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 157,
+	"Round": 17,
+	"Pre": 151,
+	"State": 3,
+	"Tps": 2193,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 158,
+	"Round": 17,
+	"Pre": 25,
+	"State": 2,
+	"Tps": 2767,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 159,
+	"Round": 17,
+	"Pre": 149,
+	"State": 4,
+	"Tps": 2535,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 3,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 160,
+	"Round": 17,
+	"Pre": 2,
+	"State": 1,
+	"Tps": 1994,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 161,
+	"Round": 17,
+	"Pre": 128,
+	"State": 4,
+	"Tps": 2119,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 2,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 163,
+	"Round": 18,
+	"Pre": 101,
+	"State": 4,
+	"Tps": 1996,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 164,
+	"Round": 18,
+	"Pre": 77,
+	"State": 2,
+	"Tps": 1916,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 162,
+	"Round": 18,
+	"Pre": 57,
+	"State": 4,
+	"Tps": 1218,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 3,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 3,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 165,
+	"Round": 18,
+	"Pre": 42,
+	"State": 1,
+	"Tps": 2752,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 167,
+	"Round": 18,
+	"Pre": 72,
+	"State": 4,
+	"Tps": 1094,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 3,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 166,
+	"Round": 18,
+	"Pre": 79,
+	"State": 4,
+	"Tps": 1037,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 168,
+	"Round": 18,
+	"Pre": 88,
+	"State": 1,
+	"Tps": 2826,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 110
+	}
+}{
+	"NodeId": 169,
+	"Round": 18,
+	"Pre": 87,
+	"State": 4,
+	"Tps": 1362,
+	"Config": {
+		"BatchCreateTimeout": 70,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 171,
+	"Round": 18,
+	"Pre": 113,
+	"State": 4,
+	"Tps": 2006,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 70,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 170,
+	"Round": 18,
+	"Pre": 156,
+	"State": 1,
+	"Tps": 2581,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 174,
+	"Round": 19,
+	"Pre": 40,
+	"State": 2,
+	"Tps": 2529,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 172,
+	"Round": 19,
+	"Pre": 18,
+	"State": 4,
+	"Tps": 1197,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 173,
+	"Round": 19,
+	"Pre": 18,
+	"State": 4,
+	"Tps": 1510,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 175,
+	"Round": 19,
+	"Pre": 82,
+	"State": 4,
+	"Tps": 2592,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 200
+	}
+}{
+	"NodeId": 176,
+	"Round": 19,
+	"Pre": 124,
+	"State": 1,
+	"Tps": 1719,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 62,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 177,
+	"Round": 19,
+	"Pre": 142,
+	"State": 1,
+	"Tps": 3003,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 178,
+	"Round": 19,
+	"Pre": 50,
+	"State": 4,
+	"Tps": 1661,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 179,
+	"Round": 19,
+	"Pre": 80,
+	"State": 2,
+	"Tps": 2528,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 170
+	}
+}{
+	"NodeId": 180,
+	"Round": 19,
+	"Pre": 72,
+	"State": 4,
+	"Tps": 994,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 3,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 181,
+	"Round": 19,
+	"Pre": 84,
+	"State": 4,
+	"Tps": 1925,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 5,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 182,
+	"Round": 20,
+	"Pre": 158,
+	"State": 4,
+	"Tps": 2386,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 184,
+	"Round": 20,
+	"Pre": 79,
+	"State": 4,
+	"Tps": 884,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 183,
+	"Round": 20,
+	"Pre": 79,
+	"State": 4,
+	"Tps": 611,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 3,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 185,
+	"Round": 20,
+	"Pre": 152,
+	"State": 4,
+	"Tps": 1274,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 3,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 186,
+	"Round": 20,
+	"Pre": 82,
+	"State": 2,
+	"Tps": 2854,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 3,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 187,
+	"Round": 20,
+	"Pre": 88,
+	"State": 2,
+	"Tps": 1886,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 70,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 189,
+	"Round": 20,
+	"Pre": 20,
+	"State": 4,
+	"Tps": 856,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 190,
+	"Round": 20,
+	"Pre": 12,
+	"State": 2,
+	"Tps": 2209,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 188,
+	"Round": 20,
+	"Pre": 4,
+	"State": 4,
+	"Tps": 1208,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 191,
+	"Round": 20,
+	"Pre": 34,
+	"State": 4,
+	"Tps": 2051,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 3,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 194,
+	"Round": 21,
+	"Pre": 20,
+	"State": 1,
+	"Tps": 2495,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 193,
+	"Round": 21,
+	"Pre": 174,
+	"State": 3,
+	"Tps": 2329,
+	"Config": {
+		"BatchCreateTimeout": 70,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 192,
+	"Round": 21,
+	"Pre": 79,
+	"State": 2,
+	"Tps": 1861,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 195,
+	"Round": 21,
+	"Pre": 20,
+	"State": 4,
+	"Tps": 749,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 196,
+	"Round": 21,
+	"Pre": 35,
+	"State": 4,
+	"Tps": 1765,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 197,
+	"Round": 21,
+	"Pre": 27,
+	"State": 4,
+	"Tps": 1563,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 199,
+	"Round": 21,
+	"Pre": 186,
+	"State": 3,
+	"Tps": 2704,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 3,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 200
+	}
+}{
+	"NodeId": 200,
+	"Round": 21,
+	"Pre": 114,
+	"State": 4,
+	"Tps": 1622,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 201,
+	"Round": 21,
+	"Pre": 147,
+	"State": 4,
+	"Tps": 2228,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 3,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 198,
+	"Round": 21,
+	"Pre": 138,
+	"State": 2,
+	"Tps": 2597,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 4,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 204,
+	"Round": 22,
+	"Pre": 168,
+	"State": 2,
+	"Tps": 2582,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 70,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 110
+	}
+}{
+	"NodeId": 202,
+	"Round": 22,
+	"Pre": 101,
+	"State": 1,
+	"Tps": 2803,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 203,
+	"Round": 22,
+	"Pre": 7,
+	"State": 1,
+	"Tps": 1796,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 206,
+	"Round": 22,
+	"Pre": 84,
+	"State": 4,
+	"Tps": 1893,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 205,
+	"Round": 22,
+	"Pre": 1,
+	"State": 1,
+	"Tps": 1820,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 207,
+	"Round": 22,
+	"Pre": 136,
+	"State": 4,
+	"Tps": 1899,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 3,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 209,
+	"Round": 22,
+	"Pre": 165,
+	"State": 4,
+	"Tps": 2298,
+	"Config": {
+		"BatchCreateTimeout": 70,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 208,
+	"Round": 22,
+	"Pre": 160,
+	"State": 4,
+	"Tps": 1769,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 210,
+	"Round": 22,
+	"Pre": 192,
+	"State": 4,
+	"Tps": 951,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 211,
+	"Round": 22,
+	"Pre": 12,
+	"State": 1,
+	"Tps": 2558,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 214,
+	"Round": 23,
+	"Pre": 82,
+	"State": 2,
+	"Tps": 3005,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 212,
+	"Round": 23,
+	"Pre": 160,
+	"State": 2,
+	"Tps": 1909,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 213,
+	"Round": 23,
+	"Pre": 179,
+	"State": 4,
+	"Tps": 1717,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 170
+	}
+}{
+	"NodeId": 216,
+	"Round": 23,
+	"Pre": 138,
+	"State": 4,
+	"Tps": 2281,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 200
+	}
+}{
+	"NodeId": 215,
+	"Round": 23,
+	"Pre": 128,
+	"State": 3,
+	"Tps": 2584,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 2,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 3,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 217,
+	"Round": 23,
+	"Pre": 81,
+	"State": 1,
+	"Tps": 2350,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 218,
+	"Round": 23,
+	"Pre": 55,
+	"State": 3,
+	"Tps": 2621,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 219,
+	"Round": 23,
+	"Pre": 152,
+	"State": 2,
+	"Tps": 1933,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 4,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 220,
+	"Round": 23,
+	"Pre": 139,
+	"State": 4,
+	"Tps": 852,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 221,
+	"Round": 23,
+	"Pre": 49,
+	"State": 4,
+	"Tps": 1096,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 222,
+	"Round": 24,
+	"Pre": 165,
+	"State": 2,
+	"Tps": 2553,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 3,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 223,
+	"Round": 24,
+	"Pre": 157,
+	"State": 4,
+	"Tps": 2229,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 3,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 224,
+	"Round": 24,
+	"Pre": 9,
+	"State": 4,
+	"Tps": 1698,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 225,
+	"Round": 24,
+	"Pre": 121,
+	"State": 4,
+	"Tps": 1967,
+	"Config": {
+		"BatchCreateTimeout": 70,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 226,
+	"Round": 24,
+	"Pre": 212,
+	"State": 3,
+	"Tps": 1802,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 5,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 227,
+	"Round": 24,
+	"Pre": 202,
+	"State": 2,
+	"Tps": 2749,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 3,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 228,
+	"Round": 24,
+	"Pre": 219,
+	"State": 3,
+	"Tps": 1746,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 5,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 230,
+	"Round": 24,
+	"Pre": 59,
+	"State": 3,
+	"Tps": 1670,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 229,
+	"Round": 24,
+	"Pre": 77,
+	"State": 1,
+	"Tps": 2340,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 110
+	}
+}{
+	"NodeId": 231,
+	"Round": 24,
+	"Pre": 94,
+	"State": 3,
+	"Tps": 2317,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 232,
+	"Round": 25,
+	"Pre": 204,
+	"State": 1,
+	"Tps": 3010,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 70,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 180
+	}
+}{
+	"NodeId": 234,
+	"Round": 25,
+	"Pre": 144,
+	"State": 4,
+	"Tps": 976,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 70,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 233,
+	"Round": 25,
+	"Pre": 174,
+	"State": 4,
+	"Tps": 588,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 60,
+		"Dlazy": 2,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 236,
+	"Round": 25,
+	"Pre": 179,
+	"State": 1,
+	"Tps": 3076,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 3,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 170
+	}
+}{
+	"NodeId": 235,
+	"Round": 25,
+	"Pre": 192,
+	"State": 4,
+	"Tps": 375,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 3,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 237,
+	"Round": 25,
+	"Pre": 25,
+	"State": 4,
+	"Tps": 2628,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 238,
+	"Round": 25,
+	"Pre": 215,
+	"State": 4,
+	"Tps": 2592,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 3,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 3,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 239,
+	"Round": 25,
+	"Pre": 95,
+	"State": 3,
+	"Tps": 3090,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 200
+	}
+}{
+	"NodeId": 240,
+	"Round": 25,
+	"Pre": 15,
+	"State": 4,
+	"Tps": 1456,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 241,
+	"Round": 25,
+	"Pre": 6,
+	"State": 1,
+	"Tps": 2079,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 242,
+	"Round": 26,
+	"Pre": 125,
+	"State": 2,
+	"Tps": 2875,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 200
+	}
+}{
+	"NodeId": 244,
+	"Round": 26,
+	"Pre": 42,
+	"State": 2,
+	"Tps": 2506,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 243,
+	"Round": 26,
+	"Pre": 157,
+	"State": 4,
+	"Tps": 2250,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 5,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 245,
+	"Round": 26,
+	"Pre": 80,
+	"State": 4,
+	"Tps": 1512,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 110
+	}
+}{
+	"NodeId": 247,
+	"Round": 26,
+	"Pre": 155,
+	"State": 4,
+	"Tps": 2035,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 3,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 246,
+	"Round": 26,
+	"Pre": 65,
+	"State": 4,
+	"Tps": 1030,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 70,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 248,
+	"Round": 26,
+	"Pre": 149,
+	"State": 4,
+	"Tps": 2084,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 3,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 200
+	}
+}{
+	"NodeId": 250,
+	"Round": 26,
+	"Pre": 10,
+	"State": 2,
+	"Tps": 2494,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 249,
+	"Round": 26,
+	"Pre": 113,
+	"State": 4,
+	"Tps": 1401,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 70,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 5,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 251,
+	"Round": 26,
+	"Pre": 227,
+	"State": 3,
+	"Tps": 2611,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 3,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 252,
+	"Round": 27,
+	"Pre": 199,
+	"State": 4,
+	"Tps": 923,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 3,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 200
+	}
+}{
+	"NodeId": 254,
+	"Round": 27,
+	"Pre": 81,
+	"State": 1,
+	"Tps": 2541,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 253,
+	"Round": 27,
+	"Pre": 108,
+	"State": 1,
+	"Tps": 2203,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 32,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 255,
+	"Round": 27,
+	"Pre": 160,
+	"State": 4,
+	"Tps": 1280,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 5,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 256,
+	"Round": 27,
+	"Pre": 2,
+	"State": 1,
+	"Tps": 1632,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 2,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 257,
+	"Round": 27,
+	"Pre": 222,
+	"State": 4,
+	"Tps": 2061,
+	"Config": {
+		"BatchCreateTimeout": 70,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 3,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 258,
+	"Round": 27,
+	"Pre": 198,
+	"State": 3,
+	"Tps": 2409,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 4,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 150
+	}
+}{
+	"NodeId": 259,
+	"Round": 27,
+	"Pre": 94,
+	"State": 1,
+	"Tps": 2698,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 261,
+	"Round": 27,
+	"Pre": 37,
+	"State": 4,
+	"Tps": 2684,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 200
+	}
+}{
+	"NodeId": 260,
+	"Round": 27,
+	"Pre": 147,
+	"State": 4,
+	"Tps": 2798,
+	"Config": {
+		"BatchCreateTimeout": 70,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 31,
+		"block_tx_capacity": 150
+	}
+}
