@@ -1,0 +1,221 @@
+{
+	"NodeId": 1,
+	"Round": 1,
+	"Pre": 0,
+	"State": 1,
+	"Tps": 1217,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 4,
+	"Round": 2,
+	"Pre": 1,
+	"State": 1,
+	"Tps": 1787,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 100
+	}
+}{
+	"NodeId": 3,
+	"Round": 2,
+	"Pre": 1,
+	"State": 2,
+	"Tps": 1171,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 2,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 5,
+	"Round": 2,
+	"Pre": 1,
+	"State": 2,
+	"Tps": 1223,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 2,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 2,
+	"Round": 2,
+	"Pre": 1,
+	"State": 2,
+	"Tps": 1166,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 61,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 6,
+	"Round": 2,
+	"Pre": 1,
+	"State": 2,
+	"Tps": 1222,
+	"Config": {
+		"BatchCreateTimeout": 60,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 7,
+	"Round": 2,
+	"Pre": 1,
+	"State": 2,
+	"Tps": 1230,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 60,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 8,
+	"Round": 2,
+	"Pre": 1,
+	"State": 2,
+	"Tps": 1163,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 4,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 9,
+	"Round": 2,
+	"Pre": 1,
+	"State": 2,
+	"Tps": 1110,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 2,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 10,
+	"Round": 2,
+	"Pre": 1,
+	"State": 2,
+	"Tps": 1241,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 2,
+		"OpportunisticGraftPeers": 2,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}{
+	"NodeId": 11,
+	"Round": 2,
+	"Pre": 1,
+	"State": 2,
+	"Tps": 1235,
+	"Config": {
+		"BatchCreateTimeout": 50,
+		"BatchMaxSize": 50,
+		"Dlazy": 1,
+		"Dout": 1,
+		"GossipRetransmission": 3,
+		"HeartbeatInterval": 1,
+		"OpportunisticGraftPeers": 3,
+		"OpportunisticGraftTicks": 60,
+		"TBFT_blocks_per_proposer": 1,
+		"TBFT_propose_delta_timeout": 1,
+		"TBFT_propose_timeout": 30,
+		"block_tx_capacity": 50
+	}
+}
