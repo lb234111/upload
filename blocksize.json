@@ -1,46 +1,46 @@
 [
     {
-        "blocksize": 120,
-        "tps": 2299
+        "blocksize": 110,
+        "tps": 2133.75
     },
     {
         "blocksize": 100,
-        "tps": 2370
+        "tps": 2492
     },
     {
-        "blocksize": 110,
-        "tps": 2558
+        "blocksize": 120,
+        "tps": 2515
     },
     {
         "blocksize": 140,
-        "tps": 2582
-    },
-    {
-        "blocksize": 150,
-        "tps": 2904
+        "tps": 2145
     },
     {
         "blocksize": 130,
-        "tps": 2871
+        "tps": 2689.5
     },
     {
-        "blocksize": 170,
-        "tps": 2753
-    },
-    {
-        "blocksize": 160,
-        "tps": 2933
+        "blocksize": 150,
+        "tps": 2517
     },
     {
         "blocksize": 180,
-        "tps": 2906
+        "tps": 2817.5
+    },
+    {
+        "blocksize": 170,
+        "tps": 2810.25
+    },
+    {
+        "blocksize": 160,
+        "tps": 2503.75
     },
     {
         "blocksize": 190,
-        "tps": 2891
+        "tps": 2886.5
     },
     {
         "blocksize": 200,
-        "tps": 3053
+        "tps": 2610.25
     }
 ]
